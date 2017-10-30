@@ -1,0 +1,3 @@
+github_url.txt
+
+https://github.com/Monicalirojas/Resumen-Curricular.git
